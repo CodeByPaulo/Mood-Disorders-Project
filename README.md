@@ -13,37 +13,37 @@ You will be using the Mood Disorder Dataset Download Mood Disorder Datasetavaila
 This part is a group effort. The groups are assigned randomly unless you have emailed the professor about your team preference.
 
 1. In this part, you will create a Jupyter Notebook using the dataset described above, which is available from Canvas. You will be doing these steps:
-* Import Libraries
-* Load dataset
-* Exploratory Data Analysis
-  * Remove identifiable features to preserve privacy.
-  * Data Dimension
-  * Data Types
-  * Summary Statistics
-  * Correlation plots
-  * Data Distribution (plot features against Target variable)
+  * Import Libraries
+  * Load dataset
+  * Exploratory Data Analysis
+    * Remove identifiable features to preserve privacy.
+    * Data Dimension
+    * Data Types
+    * Summary Statistics
+    * Correlation plots
+    * Data Distribution (plot features against Target variable)
 * Data Pre-Processing and Wrangling
-  * Missing Values
-  * Missing values imputation (if needed)
-  * Duplicate Data
-  * Feature Engineering
-  * Outliers
-  * Categorical Data Encoding
-  * Feature Scaling
-  * Build functions.
+    * Missing Values
+    * Missing values imputation (if needed)
+    * Duplicate Data
+    * Feature Engineering
+    * Outliers
+    * Categorical Data Encoding
+    * Feature Scaling
+    * Build functions.
 * Models Building:
-  * K-Nearest Neighbors
-  * Decision Tree
-  * Random Forest
-  * Extra Tree Classifier
+    * K-Nearest Neighbors
+    * Decision Tree
+    * Random Forest
+    * Extra Tree Classifier
 * Models Evaluation and Comparisons
-  * K-Fold Cross Validation
-  * Confusion Matrix
-  * Accuracy
-  * Precision
-  * Recall or Sensitivity
-  * Specificity
-  * F1-score
+    * K-Fold Cross Validation
+    * Confusion Matrix
+    * Accuracy
+    * Precision
+    * Recall or Sensitivity
+    * Specificity
+    * F1-score
 2. Part 1 Deliverable is a PDF version of your Notebook submitted once to the group project drop box. In Jupyter Lab, File -> Save and Export Notebook AS -> PDF. If you get an error saving as PDF, save it as HTML, then open HTML file and right click and print to PDF.
  
 # Part 2 – Presentation
