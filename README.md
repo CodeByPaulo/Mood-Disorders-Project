@@ -13,30 +13,30 @@ Mood Disorder Dataset. The dataset consists of many features and the target clas
 # Part 1 – Prediction Models Report
 
 Jupyter Notebook using the dataset to complete the following:
-    * Import Libraries
-    * Load dataset
-    * Exploratory Data Analysis
-     * Remove identifiable features to preserve privacy.
-     * Data Dimension
-     * Data Types
-     * Summary Statistics
-     * Correlation plots
-     * Data Distribution (plot features against Target variable)
-    * Data Pre-Processing and Wrangling
-     * Missing Values
-     * Missing values imputation (if needed)
-     * Duplicate Data
-     * Feature Engineering
-     * Outliers
-     * Categorical Data Encoding
-     * Feature Scaling
-     * Build functions.
-    * Models Building:
-     * K-Nearest Neighbors
-     * Decision Tree
-     * Random Forest
-     * Extra Tree Classifier
-    * Models Evaluation and Comparisons
+      * Import Libraries
+      * Load dataset
+      * Exploratory Data Analysis
+      * Remove identifiable features to preserve privacy.
+      * Data Dimension
+      * Data Types
+      * Summary Statistics
+      * Correlation plots
+      * Data Distribution (plot features against Target variable)
+   * Data Pre-Processing and Wrangling
+      * Missing Values
+      * Missing values imputation (if needed)
+      * Duplicate Data
+      * Feature Engineering
+      * Outliers
+      * Categorical Data Encoding
+      * Feature Scaling
+      * Build functions.
+   * Models Building:
+      * K-Nearest Neighbors
+      * Decision Tree
+      * Random Forest
+      * Extra Tree Classifier
+   * Models Evaluation and Comparisons
      * K-Fold Cross Validation
      * Confusion Matrix
      * Accuracy
