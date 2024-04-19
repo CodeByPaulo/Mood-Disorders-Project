@@ -1,5 +1,5 @@
 # Scenario
-You are working as a data scientist for a renowned mood-changing center named Bright-Hope. Based on available data from previous patients, your manager has asked you to prepare a thorough report that outlines your findings.
+Data exploration for a mood-changing center, the objective of analyzing the following data is to identify patients with mood disorders.
 
 # Problem Statement
 Medical professionals work hard to improve patients’ lives. The advancement of statistical analysis and machine learning and applying these concepts in the medical field has allowed medical staff to leverage the expertise of data scientists to predict the onsets of diseases and medical emergencies and classify diagnoses.
